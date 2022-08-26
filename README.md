@@ -18,6 +18,6 @@
 <div align="center">
  
  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmsj72)	](https://solved.ac/cmsj72)
- ![cmsj72's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmsj72&show_icons=true&theme=radical)
+ ![cmsj72's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmsj72&&show_icons=true&theme=radical)
 
- </div>
+</div>
