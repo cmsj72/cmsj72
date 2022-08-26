@@ -1,7 +1,7 @@
 ### 믿고 맡길 수 있는 개발자가 되고싶은 윤찬호입니다.
 
 ------
-<div align="center>
+<div align="center">
 [![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=Unitye&logo=Unity&logoColor=black)]()
 [![C](https://img.shields.io/badge/C-A8B9CC?style=Unitye&logo=C&logoColor=black)]()
 ![C++](https://img.shields.io/badge/C++-00599C?style=C&logo=C%2B%2B&logoColor=white)
